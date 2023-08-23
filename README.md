@@ -245,9 +245,7 @@ const [steps] = useState([
 
 - public：公共静态资源
 - config：项目配置文件
-
   - routes.ts：路由
-
 - doc：文档相关资源
 - src
   - assets：静态资源
