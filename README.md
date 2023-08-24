@@ -6,6 +6,8 @@
 
 在线体验：http://ceshiya.yupi.icu
 
+演示视频：https://www.bilibili.com/video/BV1y14y1175y/
+
 ## 项目介绍
 
 测试鸭（测逝鸭），一个完全免费的交互式网络安全自学教程网站，它的前身是已经被攻击到倒闭的 [面试刷题网（面试鸭）](https://github.com/liyupi/mianshiya-public) 。
